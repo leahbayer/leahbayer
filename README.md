@@ -7,7 +7,7 @@
     
 - I completed my BS in Biology and Mathematics at Youngstown State University (go ‘guins) in 2018 🐧
   - I worked with Dr. Alicia Prieto Langarica and Dr. Pamela Harris on geometric properties of Kostant's weight multiplicity formula 📈
-  - I worked with Dr. Richard Ciotola and Dr. Colleen McLean on fern community structure 🪴
+  - I worked with Dr. Richard Ciotola and Dr. Colleen McLean on analyzing fern community structure 🪴
   - I worked with Dr. Alicia Prieto Langarica on modeling songbird migration patterns 🐦
   - I participated in National Science Foundation Research Experience for Undergraduates (NSF REU) programs at the University of Arkansas studying crayfish population dynamics and the University of South Dakota studying songbird nesting sucess 🦞🐦
 
